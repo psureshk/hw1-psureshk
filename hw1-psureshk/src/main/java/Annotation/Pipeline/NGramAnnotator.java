@@ -11,7 +11,7 @@ import Annotation.General.BaseAnnotation;
 
 
 /** This is to annotate the uni/bi/tri gram consecutive tokens
- * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
+ * Updated by JCasGen Wed Sep 11 09:56:32 PDT 2013
  * XML source: /home/psureshk/git/hw1-psureshk/hw1-psureshk/src/main/resources/hw1-psureshk-InfoProctypeSystem.xml
  * @generated */
 public class NGramAnnotator extends BaseAnnotation {

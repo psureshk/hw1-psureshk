@@ -7,14 +7,17 @@ import org.apache.uima.jcas.JCas;
 import org.apache.uima.jcas.JCasRegistry;
 import org.apache.uima.jcas.cas.TOP_Type;
 
+import Annotation.General.BaseAnnotation;
+
+
 import org.apache.uima.jcas.cas.TOP;
 
 
 /** Describes the EntityName like Person/Organization/Company/Location etc.
- * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
+ * Updated by JCasGen Wed Sep 11 09:56:33 PDT 2013
  * XML source: /home/psureshk/git/hw1-psureshk/hw1-psureshk/src/main/resources/hw1-psureshk-InfoProctypeSystem.xml
  * @generated */
-public class Entity extends TOP {
+public class Entity extends BaseAnnotation {
   /** @generated
    * @ordered 
    */
@@ -45,6 +48,14 @@ public class Entity extends TOP {
     super(jcas);
     readObject();   
   } 
+
+  /** @generated */  
+  public Entity(JCas jcas, int begin, int end) {
+    super(jcas);
+    setBegin(begin);
+    setEnd(end);
+    readObject();
+  }   
 
   /** <!-- begin-user-doc -->
     * Write your own initialization here

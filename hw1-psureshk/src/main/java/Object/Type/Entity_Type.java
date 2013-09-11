@@ -9,12 +9,14 @@ import org.apache.uima.cas.impl.FSGenerator;
 import org.apache.uima.cas.FeatureStructure;
 import org.apache.uima.cas.impl.TypeImpl;
 import org.apache.uima.cas.Type;
+import Annotation.General.BaseAnnotation_Type;
+
 import org.apache.uima.jcas.cas.TOP_Type;
 
 /** Describes the EntityName like Person/Organization/Company/Location etc.
- * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
+ * Updated by JCasGen Wed Sep 11 09:56:33 PDT 2013
  * @generated */
-public class Entity_Type extends TOP_Type {
+public class Entity_Type extends BaseAnnotation_Type {
   /** @generated */
   @Override
   protected FSGenerator getFSGenerator() {return fsGenerator;}

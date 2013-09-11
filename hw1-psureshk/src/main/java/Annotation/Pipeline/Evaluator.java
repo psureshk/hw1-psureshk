@@ -11,7 +11,7 @@ import Annotation.General.BaseAnnotation;
 
 
 /** This sorts the answers based on the scores and calculates the precision using a defined formula
- * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
+ * Updated by JCasGen Wed Sep 11 09:56:32 PDT 2013
  * XML source: /home/psureshk/git/hw1-psureshk/hw1-psureshk/src/main/resources/hw1-psureshk-InfoProctypeSystem.xml
  * @generated */
 public class Evaluator extends BaseAnnotation {

@@ -70,5 +70,10 @@
       <description>Describes the predicate portion of the sentence.</description>
       <supertypeName>Annotation.General.BaseAnnotation</supertypeName>
     </typeDescription>
+  <typeDescription>
+      <name>Annotation.Output.Text</name>
+      <description>Consolidates the output reeived from answer score and adds the answer scores at each answer line.</description>
+      <supertypeName>Annotation.General.BaseAnnotation</supertypeName>
+    </typeDescription>
   </types>
   </typeSystemDescription>

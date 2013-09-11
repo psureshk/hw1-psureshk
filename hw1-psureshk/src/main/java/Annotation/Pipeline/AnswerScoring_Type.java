@@ -12,7 +12,7 @@ import org.apache.uima.cas.Type;
 import Annotation.General.BaseAnnotation_Type;
 
 /** This annotates the answers with the answer score
- * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
+ * Updated by JCasGen Wed Sep 11 09:56:32 PDT 2013
  * @generated */
 public class AnswerScoring_Type extends BaseAnnotation_Type {
   /** @generated */

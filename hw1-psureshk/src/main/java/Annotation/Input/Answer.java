@@ -11,7 +11,7 @@ import Annotation.General.BaseAnnotation;
 
 
 /** Answer annotation is used to annotate the Answer lines given in the input. This has a feature by name IsCorrect which is set to 1 if the answer is correct and to 0 if the answer is wrong
- * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
+ * Updated by JCasGen Wed Sep 11 09:56:32 PDT 2013
  * XML source: /home/psureshk/git/hw1-psureshk/hw1-psureshk/src/main/resources/hw1-psureshk-InfoProctypeSystem.xml
  * @generated */
 public class Answer extends BaseAnnotation {
