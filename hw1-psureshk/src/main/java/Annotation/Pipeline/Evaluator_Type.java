@@ -1,5 +1,5 @@
 
-/* First created by JCasGen Tue Sep 10 21:56:15 PDT 2013 */
+/* First created by JCasGen Tue Sep 10 22:57:03 PDT 2013 */
 package Annotation.Pipeline;
 
 import org.apache.uima.jcas.JCas;
@@ -12,7 +12,7 @@ import org.apache.uima.cas.Type;
 import Annotation.General.BaseAnnotation_Type;
 
 /** This sorts the answers based on the scores and calculates the precision using a defined formula
- * Updated by JCasGen Tue Sep 10 21:56:15 PDT 2013
+ * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
  * @generated */
 public class Evaluator_Type extends BaseAnnotation_Type {
   /** @generated */

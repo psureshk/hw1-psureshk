@@ -1,5 +1,5 @@
 
-/* First created by JCasGen Tue Sep 10 21:56:15 PDT 2013 */
+/* First created by JCasGen Tue Sep 10 22:57:03 PDT 2013 */
 package Annotation.Input;
 
 import org.apache.uima.jcas.JCas;
@@ -14,7 +14,7 @@ import org.apache.uima.cas.Feature;
 import Annotation.General.BaseAnnotation_Type;
 
 /** Answer annotation is used to annotate the Answer lines given in the input. This has a feature by name IsCorrect which is set to 1 if the answer is correct and to 0 if the answer is wrong
- * Updated by JCasGen Tue Sep 10 21:56:15 PDT 2013
+ * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
  * @generated */
 public class Answer_Type extends BaseAnnotation_Type {
   /** @generated */

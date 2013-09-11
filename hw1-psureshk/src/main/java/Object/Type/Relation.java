@@ -1,6 +1,6 @@
 
 
-/* First created by JCasGen Tue Sep 10 21:56:16 PDT 2013 */
+/* First created by JCasGen Tue Sep 10 22:57:03 PDT 2013 */
 package Object.Type;
 
 import org.apache.uima.jcas.JCas; 
@@ -10,9 +10,9 @@ import org.apache.uima.jcas.cas.TOP_Type;
 import org.apache.uima.jcas.cas.TOP;
 
 
-/** Describes the predicate portion of the sentence. 
- * Updated by JCasGen Tue Sep 10 21:56:16 PDT 2013
- * XML source: /home/psureshk/workspace/hw1-psureshk/InformationProcessingTypeSystemDescriptor.xml
+/** Describes the predicate portion of the sentence.
+ * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
+ * XML source: /home/psureshk/git/hw1-psureshk/hw1-psureshk/src/main/resources/hw1-psureshk-InfoProctypeSystem.xml
  * @generated */
 public class Relation extends TOP {
   /** @generated

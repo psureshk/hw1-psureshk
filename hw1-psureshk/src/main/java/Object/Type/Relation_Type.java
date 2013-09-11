@@ -1,5 +1,5 @@
 
-/* First created by JCasGen Tue Sep 10 21:56:16 PDT 2013 */
+/* First created by JCasGen Tue Sep 10 22:57:03 PDT 2013 */
 package Object.Type;
 
 import org.apache.uima.jcas.JCas;
@@ -11,8 +11,8 @@ import org.apache.uima.cas.impl.TypeImpl;
 import org.apache.uima.cas.Type;
 import org.apache.uima.jcas.cas.TOP_Type;
 
-/** Describes the predicate portion of the sentence. 
- * Updated by JCasGen Tue Sep 10 21:56:16 PDT 2013
+/** Describes the predicate portion of the sentence.
+ * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
  * @generated */
 public class Relation_Type extends TOP_Type {
   /** @generated */

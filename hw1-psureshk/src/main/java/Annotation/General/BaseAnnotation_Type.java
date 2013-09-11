@@ -1,5 +1,5 @@
 
-/* First created by JCasGen Tue Sep 10 21:56:15 PDT 2013 */
+/* First created by JCasGen Tue Sep 10 22:57:03 PDT 2013 */
 package Annotation.General;
 
 import org.apache.uima.jcas.JCas;
@@ -14,7 +14,7 @@ import org.apache.uima.cas.Feature;
 import org.apache.uima.jcas.tcas.Annotation_Type;
 
 /** Base Annotation type system extends the base class annotation and defines two features namely Source (string) and Confidence ( integer) which will be inherited by the other annotations for book keeping purpose explaining where the annotation was created and how good the annotation is.
- * Updated by JCasGen Tue Sep 10 21:56:15 PDT 2013
+ * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
  * @generated */
 public class BaseAnnotation_Type extends Annotation_Type {
   /** @generated */

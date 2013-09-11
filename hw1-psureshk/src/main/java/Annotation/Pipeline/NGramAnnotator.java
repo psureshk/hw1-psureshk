@@ -1,6 +1,6 @@
 
 
-/* First created by JCasGen Tue Sep 10 21:56:15 PDT 2013 */
+/* First created by JCasGen Tue Sep 10 22:57:03 PDT 2013 */
 package Annotation.Pipeline;
 
 import org.apache.uima.jcas.JCas; 
@@ -11,8 +11,8 @@ import Annotation.General.BaseAnnotation;
 
 
 /** This is to annotate the uni/bi/tri gram consecutive tokens
- * Updated by JCasGen Tue Sep 10 21:56:15 PDT 2013
- * XML source: /home/psureshk/workspace/hw1-psureshk/InformationProcessingTypeSystemDescriptor.xml
+ * Updated by JCasGen Tue Sep 10 22:57:03 PDT 2013
+ * XML source: /home/psureshk/git/hw1-psureshk/hw1-psureshk/src/main/resources/hw1-psureshk-InfoProctypeSystem.xml
  * @generated */
 public class NGramAnnotator extends BaseAnnotation {
   /** @generated
