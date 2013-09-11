@@ -63,12 +63,12 @@
     <typeDescription>
       <name>Object.Type.Entity</name>
       <description>Describes the EntityName like Person/Organization/Company/Location etc.</description>
-      <supertypeName>uima.cas.TOP</supertypeName>
+      <supertypeName>Annotation.General.BaseAnnotation</supertypeName>
     </typeDescription>
     <typeDescription>
       <name>Object.Type.Relation</name>
-      <description>Describes the predicate portion of the sentence. </description>
-      <supertypeName>uima.cas.TOP</supertypeName>
+      <description>Describes the predicate portion of the sentence.</description>
+      <supertypeName>Annotation.General.BaseAnnotation</supertypeName>
     </typeDescription>
   </types>
   </typeSystemDescription>
